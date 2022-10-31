@@ -12,4 +12,6 @@
 
 	<div class="m-3 p-3 border">defult border</div>
 	<div class="m-2 m-3 border-top border-end">individual border</div>
+	<div class="m-2 p-3 border-start border-success">individual border</div>
+	<div class="m-3 p-3 border-start border-danger border-5">thicker border</div>
 </main>
